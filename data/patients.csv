@@ -1,0 +1,13 @@
+Category,ID,Name,Age,Contact,RegistrationDate,Extra1,Extra2,Extra3
+General,PAT-1001,Chinedu Okafor,24,0803-555-0192,2026-11-01,Mild headache and seasonal allergies,1
+General,PAT-1002,Amina Mohammed,29,0802-123-4567,2026-11-02,Annual medical examination,1
+General,PAT-1003,Babatunde Adeleke,45,0807-987-6543,2026-11-03,Persistent lower back pain,0
+General,PAT-1004,Grace Danjuma,19,0814-222-3344,2026-11-04,Sore throat and mild fever,0
+General,PAT-1005,Emeka Nwosu,34,0809-888-7711,2026-11-05,Pre-employment medical screening,1
+Emergency,PAT-1006,Fatima Bello,21,0805-444-1122,2026-11-06,1,Alhaji Bello (0803-111-2233)
+Emergency,PAT-1007,David Olatunji,52,0808-333-9988,2026-11-06,2,Mrs. Olatunji (0808-333-9989)
+Emergency,PAT-1008,Halima Suleiman,12,0812-555-7788,2026-11-06,3,Mallam Suleiman (0812-555-7789)
+Follow-Up,PAT-1009,Samuel Kalu,61,0806-777-6655,2026-11-01,2026-10-20,Hypertension Medication Review,Dr. Adebayo
+Follow-Up,PAT-1010,Zainab Abubakar,38,0803-888-9900,2026-11-02,2026-10-25,Post-Surgical Wound Inspection,Dr. Eze
+Follow-Up,PAT-1011,Tunde Balogun,48,0815-999-1122,2026-11-03,2026-10-18,Type 2 Diabetes Glycemic Monitoring,Dr. Adebayo
+

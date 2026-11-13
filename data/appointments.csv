@@ -1,0 +1,9 @@
+AppointmentID,PatientID,PatientName,Date,Time,Department,Doctor,Status,Notes,Fee
+APT-2001,PAT-1001,Chinedu Okafor,2026-11-06,09:00,General Practice,Dr. Adebayo,Completed,Routine consultation complete,40.00
+APT-2002,PAT-1009,Samuel Kalu,2026-11-06,09:30,Cardiology,Dr. Adebayo,Completed,BP stable at 125/80,25.00
+APT-2003,PAT-1002,Amina Mohammed,2026-11-06,10:30,General Practice,Dr. Eze,Scheduled,Comprehensive checkup,40.00
+APT-2004,PAT-1003,Babatunde Adeleke,2026-11-06,11:15,Orthopedics,Dr. Williams,Scheduled,Back spine consultation,55.00
+APT-2005,PAT-1010,Zainab Abubakar,2026-11-06,12:00,Surgery Follow-Up,Dr. Eze,Scheduled,Suture removal and healing check,25.00
+APT-2006,PAT-1004,Grace Danjuma,2026-11-06,14:00,ENT,Dr. Williams,Cancelled,Patient requested reschedule,55.00
+APT-2007,PAT-1011,Tunde Balogun,2026-11-07,10:00,Endocrinology,Dr. Adebayo,Scheduled,HbA1c test discussion,25.00
+

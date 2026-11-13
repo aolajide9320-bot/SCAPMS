@@ -1,0 +1,18 @@
+# Build artifacts and object files
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.exp
+*.lib
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary or system files
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
