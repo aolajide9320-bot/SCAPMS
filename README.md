@@ -83,12 +83,6 @@ SCAPMS/
 │   └── uml_diagram.png
 ├── docs/
 │   └── PROJECT_REPORT.md            <- Full technical report in Markdown
-├── build.bat                        <- Automated MSVC C++17 build script
-├── capture_gui.py                   <- Automated screenshot capture script
-├── generate_uml.py                  <- UML diagram generation script
-├── build_submission_pdf.py          <- Master PDF generator
-├── build_submission_docx.py         <- Master Word DOCX generator
-├── SCAPMS_Midsemester_Assessment_Submission.docx <- Master Submission DOCX
-└── SCAPMS_Midsemester_Assessment_Submission.pdf  <- Master Submission PDF
+└── build.bat                        <- Automated MSVC C++17 build script
 ```
 
