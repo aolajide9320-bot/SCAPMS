@@ -2,9 +2,8 @@
 ## Smart Clinic Appointment & Patient Management System (SCAPMS)
 
 **Institution:** Miva Open University  
-**Faculty:** Computing & Applied Sciences  
-**Course Code:** COS 202 (Computer Programming II)  
-**Academic Session:** 2026/2027  
+**Department:** Software Engineering  
+**Course Code:** COS 202 (Computer Programming II)   
 **Submission Date:** November 2026  
 
 ---
