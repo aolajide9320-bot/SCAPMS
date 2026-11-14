@@ -24,18 +24,6 @@ To compile the entire project from scratch with MSVC (C++17):
 build.bat
 ```
 
-### 4. Master Submission Documents (DOCX & PDF)
-The complete submission document is available in both Word (.docx) and PDF (.pdf) formats:
-- **Microsoft Word Document:** `SCAPMS_Midsemester_Assessment_Submission.docx`
-- **PDF Document:** `SCAPMS_Midsemester_Assessment_Submission.pdf`
-
-Both documents contain:
-1. Cover Page & University Metadata
-2. Part 1: Comprehensive Project Report (Sections i through xii)
-3. Part 2: Complete UML Class Relationship & Architecture Diagram
-4. Part 3: High-Resolution Screenshots & Operational Walkthrough of all 6 GUI views
-5. Part 4: Complete Labelled C++ Source Code (Headers, Source Files, GUI Files, Data Files, and Build Script)
-
 ---
 
 ## Directory Structure
